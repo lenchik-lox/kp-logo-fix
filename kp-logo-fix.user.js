@@ -7,8 +7,8 @@
 // @include      *://*.kinopoisk.*/*
 // @icon         https://st.kp.yandex.net/public/img/favicons/favicon-57.png
 // @grant        none
-// @updateUrl    https://raw.githubusercontent.com/lenchik-lox/kp-logo-fix/main/kp-logo-fix.user.js
-// @downloadUrl  https://raw.githubusercontent.com/lenchik-lox/kp-logo-fix/main/kp-logo-fix.user.js
+// @updateUrl    https://github.com/lenchik-lox/kp-logo-fix/raw/master/kp-logo-fix.user.js
+// @downloadUrl  https://github.com/lenchik-lox/kp-logo-fix/raw/master/kp-logo-fix.user.js
 // @supportUrl   https://github.com/lenchik-lox/kp-logo-fix/issues
 // ==/UserScript==
 
