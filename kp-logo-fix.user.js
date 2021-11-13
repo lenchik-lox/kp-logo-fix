@@ -2,9 +2,9 @@
 // @name         KP Logo Fix
 // @namespace    bober
 // @version      1.0
-// @description  fix
+// @description  FIXING SHIT
 // @author       lenchik-lox
-// @include      *://*.kinopoisk.*/*
+// @match        https://www.kinopoisk.ru/*
 // @icon         https://st.kp.yandex.net/public/img/favicons/favicon-57.png
 // @grant        none
 // @updateUrl    https://raw.githubusercontent.com/lenchik-lox/kp-logo-fix/main/kpLogoFix.user.js
